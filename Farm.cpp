@@ -14,15 +14,18 @@ using namespace std;
 void title();
 void results(int hu, int ka);
 
+//variables
+int eing_tiere;
+int eing_beine;
+int huhner;
+int kanien;
+int anz_beine;
+char rep;
+
 //main
 int main() {
 
-	int eing_tiere;
-	int eing_beine;
-	int huhner;
-	int kanien;
-	int anz_beine;
-	char rep;
+	
 
 	title();
 
