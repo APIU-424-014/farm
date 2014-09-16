@@ -25,8 +25,6 @@ char rep;
 //main
 int main() {
 
-	
-
 	title();
 
 	do {
