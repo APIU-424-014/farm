@@ -22,7 +22,7 @@ int main() {
 	int huhner;
 	int kanien;
 	int anz_beine;
-	char rep='j';
+	char rep;
 
 	title();
 
